@@ -1,0 +1,36 @@
+{
+	"enemies":{
+		"enemy":[
+			{
+				"name": "Monchito",
+				"description": "Fuerte como el pan",
+				"health": "10",
+				"strength": "2"
+			},
+			{
+				"name": "Petunia",
+				"description": "Es buena con las manos",
+				"health": "20",
+				"strength": "4"
+			},
+			{
+				"name": "Masao",
+				"description": "Duro como el gigante",
+				"health": "30",
+				"strength": "6"
+			},
+			{
+				"name": "Pablo El Furioso",
+				"description": "Timido pero rabioso",
+				"health": "40",
+				"strength": "8"
+			},
+			{
+				"name": "Guillem Agujón",
+				"description": "El duro de los duros",
+				"health": "50",
+				"strength": "10"
+			}
+		]
+	}
+}

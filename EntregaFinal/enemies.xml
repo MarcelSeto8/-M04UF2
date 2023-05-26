@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<enemies>
+	<enemy>
+		<name>Monchito</name>
+		<description>Fuerte como el pan</description>
+		<health>10</health>
+		<strength>2</strength>
+	</enemy>
+	<enemy>
+		<name>Petunia</name>
+		<description>Es buena con las manos</description>
+		<health>20</health>
+		<strength>4</strength>
+	</enemy>
+	<enemy>
+		<name>Masao</name>
+		<description>Duro como el gigante</description>
+		<health>30</health>
+		<strength>6</strength>
+	</enemy>
+	<enemy>
+		<name>Pablo El Furioso</name>
+		<description>Timido pero rabioso</description>
+		<health>40</health>
+		<strength>8</strength>
+	</enemy>
+	<enemy>
+		<name>Guillem Agujón</name>
+		<description>El duro de los más duros</description>
+		<health>50</health>
+		<strength>10</strength>
+	</enemy>
+</enemies>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enemies>
+	<enemy>
+		<name>Petunia</name>
+		<strength>4</strength>
+		<health>12</health>
+		<description>Es buena con las manos</description>
+	</enemy>
+	<enemy>
+		<name>Masao</name>
+		<strength>6</strength>
+		<health>30</health>
+		<description>Duro como el gigante</description>
+	</enemy>
+	<enemy>
+		<name>Pablo El Furioso</name>
+		<strength>8</strength>
+		<health>40</health>
+		<description>Timido pero rabioso</description>
+	</enemy>
+	<enemy>
+		<name>Guillem Agujón</name>
+		<strength>10</strength>
+		<health>50</health>
+		<description>El duro de los duros</description>
+	</enemy>
+</enemies>

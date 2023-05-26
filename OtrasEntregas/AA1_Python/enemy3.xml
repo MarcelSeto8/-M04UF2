@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<enemies>
+	<enemy id_enemy="3">
+		<name>Masao</name>
+		<description>Duro como el gigante</description>
+		<health>50</health>
+		<strength>60</strength>
+	</enemy>
+</enemies>

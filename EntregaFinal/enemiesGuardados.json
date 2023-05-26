@@ -1,0 +1,30 @@
+{
+    "enemies": {
+        "enemy": [
+            {
+                "name": "Petunia",
+                "strength": 4,
+                "health": 12,
+                "description": "Es buena con las manos"
+            },
+            {
+                "name": "Masao",
+                "strength": 6,
+                "health": 30,
+                "description": "Duro como el gigante"
+            },
+            {
+                "name": "Pablo El Furioso",
+                "strength": 8,
+                "health": 40,
+                "description": "Timido pero rabioso"
+            },
+            {
+                "name": "Guillem Aguj\u00f3n",
+                "strength": 10,
+                "health": 50,
+                "description": "El duro de los duros"
+            }
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enemies>
+	<enemy>
+		<name>Marcelo</name>
+		<health>53</health>
+		<strength>124</strength>
+		<description>El mejor</description>
+	</enemy>
+	<enemy>
+		<name>Pablo</name>
+		<health>241124</health>
+		<strength>215251</strength>
+		<description>El guapo</description>
+	</enemy>
+</enemies>

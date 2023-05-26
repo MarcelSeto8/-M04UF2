@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<player>
+	<name>Marcel</name>
+	<health>87</health>
+	<strength>10</strength>
+	<level>2</level>
+	<xp>100</xp>
+	<description>Es muy guapo</description>
+</player>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<enemies>
+	<enemy id_enemy="2">
+		<name>Petunia</name>
+		<description>Es buena con las manos</description>
+		<health>10</health>
+		<strength>80</strength>
+	</enemy>
+</enemies>

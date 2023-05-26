@@ -1,0 +1,10 @@
+{
+    "player": {
+        "name": "Marcel",
+        "health": 87,
+        "strength": 10,
+        "level": 2,
+        "xp": 100,
+        "description": "Es muy guapo"
+    }
+}

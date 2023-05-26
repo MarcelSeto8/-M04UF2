@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<enemies>
+	<enemy id_enemy="1">
+		<name>Monchito</name>
+		<description>Fuerte como el pan</description>
+		<health>25</health>
+		<strength>10</strength>
+	</enemy>
+</enemies>
